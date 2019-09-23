@@ -1,4 +1,4 @@
-package com.alvaromerchan.projectx.domain.enums;
+	package com.alvaromerchan.projectx.domain.enums;
 
 public enum TipoCliente {
 	
