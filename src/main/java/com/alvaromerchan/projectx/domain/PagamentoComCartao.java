@@ -1,7 +1,11 @@
 package com.alvaromerchan.projectx.domain;
 
+import javax.persistence.Entity;
+
 import com.alvaromerchan.projectx.domain.enums.EstadoPagamento;
 
+
+@Entity
 public class PagamentoComCartao extends Pagamento {
 	private static final long serialVersionUID = 1L;
 	
